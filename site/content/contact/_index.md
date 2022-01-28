@@ -3,7 +3,7 @@ title: "Kontakt"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Lokacija
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: "Bursa 64a Poranesen Frinko, Bitola, Macedonia"
   - heading: Rabotno Vreme
     text: "Ponedelnik – Sabota: 8 AM – 16 PM "
 ---
